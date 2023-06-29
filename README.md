@@ -24,6 +24,11 @@ Med7+
 
 <img src="https://github.com/HECTA-UoM/M3/blob/main/Med7_plus.png" width=700>
 
-Clinical-xlm-Roberta
+Clinical-xlm-Roberta:
+'overall_precision': 0.8798480837840948,
+ 'overall_recall': 0.9014267185473411,
+ 'overall_f1': 0.8905066977285965,
+ 'overall_accuracy': 0.9676871902790035}
+
 
 
