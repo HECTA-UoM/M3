@@ -30,5 +30,8 @@ Clinical-xlm-Roberta:
  'overall_f1': 0.8905066977285965,
  'overall_accuracy': 0.9676871902790035}
 
+<img src="https://github.com/HECTA-UoM/M3/blob/main/clinical-xlm-roberta.png" width=700>
+
+
 
 
