@@ -18,6 +18,13 @@ Extended-Med7 (Med7+): to 9 labels
 
 # Evaluation Metrics
 
+[Eval metrics](https://www.davidsbatista.net/blog/2018/05/09/Named_Entity_Evaluation/#:~:text=When%20you%20train%20a%20NER,a%20full%20named%2Dentity%20level.):
+
+Strict: exact boundary surface string match and entity type;
+Exact: exact boundary match over the surface string, regardless of the type;
+Partial: partial boundary match over the surface string, regardless of the type;
+Type: some overlap between the system tagged entity and the gold annotation is required;
+
 # Evaluation Scores
 
 Med7+
