@@ -1,4 +1,5 @@
-<img src="https://github.com/aaronlifenghan/HOPE/blob/main/HOPE_metric_logo-v2.png" width=200>
+<img src="https://github.com/HECTA-UoM/M3/blob/main/M3_logo.png" width=200>
+
 # M3: Manchester Medical Mining
 
 Place holder for M3 packages to be shared including codes, tools, and some learning data, and sample testing data.
