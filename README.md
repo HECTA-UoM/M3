@@ -21,6 +21,6 @@ Extended-Med7 (Med7+): to 9 labels
 # Evaluation Scores
 
 Med7+
-<img src="https://github.com/HECTA-UoM/M3/blob/main/med7_plus.png" width=700>
+<img src="https://github.com/HECTA-UoM/M3/blob/main/Med7_plus.png" width=700>
 
 
