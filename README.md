@@ -39,6 +39,8 @@ Clinical-xlm-Roberta:
 
 <img src="https://github.com/HECTA-UoM/M3/blob/main/clinical-xlm-roberta.png" width=700>
 
-
+# Acknowledgement 
+[Med7](https://github.com/kormilitzin/med7)
+[xlm-Roberta-base](https://huggingface.co/xlm-roberta-base)
 
 
