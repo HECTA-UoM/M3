@@ -34,7 +34,16 @@ Type: some overlap between the system tagged entity and the gold annotation is r
 
 Med7+
 
+Deirect deployment of Med7 on n2c2-2018 shared task training data 303 letters: 
+
 <img src="https://github.com/HECTA-UoM/M3/blob/main/Med7_plus.png" width=700>
+
+Fine-tuned Med7+ performances on n2c2-2018 shared task data using our own data splition (70/15/15%) for overall 505 original annotated letters:
+
+- generating 9 labels, vs 7 from original Med7
+- micro: precision 91%, recall 88%, f1 89%. weighted: precision 90%, recall 88%, f1 89%.
+
+  
 
 Clinical-xlm-Roberta:
 'overall_precision': 0.8798480837840948,
