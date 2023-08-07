@@ -36,7 +36,7 @@ Type: some overlap between the system tagged entity and the gold annotation is r
 
 Deirect deployment of Med7 15% testing set. 
 
-<img src="[https://github.com/HECTA-UoM/M3/blob/main/Med7_plusV2.png](https://github.com/HECTA-UoM/M3/blob/main/Med7_deploy.png)" width=700>
+<img src="https://github.com/HECTA-UoM/M3/blob/main/Med7_deploy.png" width=700>
 
 
 Med7+
