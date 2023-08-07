@@ -36,6 +36,8 @@ Type: some overlap between the system tagged entity and the gold annotation is r
 
 Deirect deployment of Med7 15% testing set. 
 
+<img src="[https://github.com/HECTA-UoM/M3/blob/main/Med7_plusV2.png](https://github.com/HECTA-UoM/M3/blob/main/Med7_deploy.png)" width=700>
+
 
 Med7+
 Fine-tuned Med7+ performances on n2c2-2018 shared task data using our own data splition (70/15/15%) for overall 505 original annotated letters:
