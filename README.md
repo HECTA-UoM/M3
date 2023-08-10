@@ -71,4 +71,13 @@ Clinical-xlm-Roberta:
 [Med7](https://github.com/kormilitzin/med7)
 [xlm-Roberta-base](https://huggingface.co/xlm-roberta-base)
 
+# References
 
+@misc{alrdahi2023medmine,
+      title={MedMine: Examining Pre-trained Language Models on Medication Mining}, 
+      author={Haifa Alrdahi and Lifeng Han and Hendrik Šuvalov and Goran Nenadic},
+      year={2023},
+      eprint={2308.03629},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
