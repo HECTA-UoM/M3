@@ -30,6 +30,12 @@ Exact: exact boundary match over the surface string, regardless of the type;
 Partial: partial boundary match over the surface string, regardless of the type;
 Type: some overlap between the system tagged entity and the gold annotation is required;
 
+# Model instructions and running logs
+
+[Med7+ Instruction using Colab](https://drive.google.com/drive/folders/1qrVerDLTlmQevA7qlpiVpGRW_L4zvtpA?usp=sharing)
+
+[Clinical-XLM-R Instruction using Colab: coming soon]()
+
 # Evaluation Scores
 
 
