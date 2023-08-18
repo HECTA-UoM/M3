@@ -34,7 +34,7 @@ Type: some overlap between the system tagged entity and the gold annotation is r
 
 [Med7+ Instruction using Colab step-by-step documentation](https://drive.google.com/drive/folders/1qrVerDLTlmQevA7qlpiVpGRW_L4zvtpA?usp=sharing)
 
-[Med7+ Colab file download](https://github.com/HECTA-UoM/M3/blob/main/Med7Plus_fine-tuning.ipynb)
+[Med7+ Colab file download](https://github.com/HECTA-UoM/M3/blob/main/Med7Plus_fine_tuning.ipynb)
 
 [Clinical-XLM-R Instruction using Colab: *coming soon*]()
 
