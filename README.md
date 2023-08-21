@@ -36,7 +36,7 @@ Type: some overlap between the system tagged entity and the gold annotation is r
 
 [Med7+ generated outputs in excel files 'generated_output_excels.zip' (65MB), all generated data (691MB) including NER, tok2vec, vocab folders as listed below can be downloaded](https://drive.google.com/drive/folders/1qrVerDLTlmQevA7qlpiVpGRW_L4zvtpA?usp=sharing)
 
-<img src="https://github.com/HECTA-UoM/M3/blob/main/en_core_med7_lg_plus.png" width=500>
+<img src="https://github.com/HECTA-UoM/M3/blob/main/en_core_med7_lg_plus.png" width=700>
 
 
 
