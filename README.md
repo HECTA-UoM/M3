@@ -34,6 +34,9 @@ Type: some overlap between the system tagged entity and the gold annotation is r
 
 [Med7+ Instruction using Colab step-by-step documentation](https://drive.google.com/drive/folders/1qrVerDLTlmQevA7qlpiVpGRW_L4zvtpA?usp=sharing)
 
+[Med7+ generated outputs in excel files 'generated_output_excels.zip' (65MB), all generated data (691MB) including NER, tok2vec, vocab folders as listed below can be downloaded](https://drive.google.com/drive/folders/1qrVerDLTlmQevA7qlpiVpGRW_L4zvtpA?usp=sharing)
+
+
 [Med7+ Colab file download](https://github.com/HECTA-UoM/M3/blob/main/Med7Plus_fine_tuning.ipynb)
 
 [Clinical-XLM-R Instruction using Colab: *coming soon*]()
