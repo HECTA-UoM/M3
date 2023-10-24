@@ -11,15 +11,14 @@ Poster link:
 [M3-Poster](https://www.researchgate.net/publication/371696214_M3_Extracting_medication_and_related_attributes_from_outpatient_letters)
 | [Presentation-photo](https://drive.google.com/file/d/1BE74mrRNCeT77IVMRveJHcv3QpZSfMVM/view?usp=sharing) | [Presentation-film](https://drive.google.com/file/d/1eWsemaMpbARxbmEAh7rpPltN9oNeTTzt/view?usp=sharing)
  
-# Models included: xlm-Roberta-base, Med7, DrugNER
+# Models hosted here included: [more models on TransformerCRF go to this link](https://github.com/HECTA-UoM/TransformerCRF)
 
 Fine-tuned on these models. Outcomes:
 
-1) Clinical-xlm-Roberta: to medication extraction task
+1) Clinical-xlm-Roberta (Clinical-XR): to medication extraction task
 
 2) Extended-Med7 (Med7+): to 9 labels
 
-Direct deployment: DrugNER
 
 # Evaluation Metrics
 
