@@ -11,7 +11,7 @@ Poster link:
 [M3-Poster](https://www.researchgate.net/publication/371696214_M3_Extracting_medication_and_related_attributes_from_outpatient_letters)
 | [Presentation-photo](https://drive.google.com/file/d/1BE74mrRNCeT77IVMRveJHcv3QpZSfMVM/view?usp=sharing) | [Presentation-film](https://drive.google.com/file/d/1eWsemaMpbARxbmEAh7rpPltN9oNeTTzt/view?usp=sharing)
  
-# Models hosted here included: [more models on TransformerCRF go to this link](https://github.com/HECTA-UoM/TransformerCRF)
+# Models hosted here included below. [For more models on LLMs and TransformerCRF go to this link](https://github.com/HECTA-UoM/TransformerCRF)
 
 Fine-tuned on these models. Outcomes:
 
