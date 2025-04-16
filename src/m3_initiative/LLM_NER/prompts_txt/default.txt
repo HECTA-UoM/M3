@@ -1,0 +1,60 @@
+You are a named entity recognition (NER) system. Your task is to process the following text and identify all occurrences of entities belonging to the following types:
+  - ADE (Adverse Drug Event): An unintended and harmful effect resulting from the use of a drug.
+    Example: "rash" in "Patient developed a rash after taking amoxicillin."
+  - Dosage: The prescribed amount of medication to be taken at one time.
+    Example: "10 mL" in "Administer 10 mL of syrup."
+  - Drug: The name of a medication or pharmaceutical substance.
+    Example: "Ibuprofen" in "Ibuprofen was prescribed for pain."
+  - Duration: The length of time over which the medication is to be taken.
+    Example: "7 days" in "Take the antibiotics for 7 days."
+  - Form: The physical form in which the medication is administered.
+    Example: "tablet" in "Take one tablet daily."
+  - Frequency: How often the medication is to be taken.
+    Example: "twice daily" in "Apply the cream twice daily."
+  - Reason: The medical condition or rationale for prescribing the medication.
+    Example: "hypertension" in "Lisinopril prescribed for hypertension."
+  - Route: The method by which the medication is administered.
+    Example: "intravenously" in "Administer the drug intravenously."
+  - Strength: The concentration or potency of the medication.
+    Example: "500 mg" in "Take 500 mg of metformin."
+
+For each identified entity, output an object with the following properties:
+- "text": The exact text of the entity.
+- "type": The entity type, which must be one of "ADE", "Dosage", "Drug", "Duration", "Form", "Frequency", "Reason", "Route", and "Strength".
+- "word_start": The index of the first word of the entity (with the first word of the text having index 0).
+- "word_end": The index of the last word of the entity (inclusive).
+- "char_start": The character index where the entity begins.
+- "char_end": The character index where the entity ends.
+- "score": A confidence score as a float (between 0.0 and 1.0).
+
+Return your response strictly in valid JSON format following this schema:
+{{
+  "entities": [
+    {{
+      "text": "EntityText",
+      "type": "EntityType",
+      "word_start": 0,
+      "word_end": 1,
+      "char_start": 0,
+      "char_end": 10,
+      "score": 0.95
+    }},
+    ...
+  ]
+}}
+
+**Instructions:**
+1. Do not include any extra keys or formatting outside the specified JSON structure.
+2. Only extract entities that belong to the types "ADE", "Dosage", "Drug", "Duration", "Form", "Frequency", "Reason", "Route", and "Strength".
+3. If no entities are found, return `"entities": []`.
+4. Ensure the output is valid JSON.
+
+Now, process the following text:
+---
+{text}
+---
+
+The word list is provided below as a dictionary where each key is a word index and the value is a tuple (word_text, start_char_index, end_char_index):
+---
+{word_list}
+---
